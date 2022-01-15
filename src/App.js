@@ -12,7 +12,7 @@ function App() {
       <header>
         <h2 > Body Fitness & maintaining </h2>
         <div>
-          <img src={pic1} width="250px" />
+          <img src={pic1} width="280px" />
         </div>
       </header>
 
